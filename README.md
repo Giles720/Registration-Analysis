@@ -43,7 +43,7 @@
     participation, ensuring inclusiveness and equity in program access.
    
 5. ### State with the highest or lowest beneficiary registration numbers
-   Abuja-FCT recorded the highest total registrations across all years, with 2,966, while Jigawa had the lowest with 2,638.[See Details Here](https://github.com/Giles720/Registration-Analysis/commit/35397b0cc86bf36fb49c8f54bc7a84ca0748effa)
+   Abuja-FCT recorded the highest total registrations across all years, with 2,966, while Jigawa had the lowest with 2,638.[See Details Here]
      
 6. ### Peak Registration Year
     The year 2024 has the highest registration of beneficiaries, reflecting increased outreach efforts.
