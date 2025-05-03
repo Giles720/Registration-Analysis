@@ -29,7 +29,7 @@
 3. Use "Find & Replace" to correct typos:
       - Replace "Pleteau" with "Plateau"
       - Replace "North Cental" with "North Central"
-4. Reshaping and Transformation of the dataset.
+4. Reshaping and Transformation of the dataset.[Details Here](https://github.com/Giles720/Registration-Analysis/blob/main/Transformed%20data.xlsx)
 5. Used Power Query to load the dataset
 
 # FINDING /ANALYSIS
@@ -38,7 +38,7 @@
 2. ### Percentage Registration Growth:				84.70%  
     This indicates a strong positive trend in registration, reflecting increased awareness or access to AZY programmes. The growth suggests successful outreach or improvements        in service delivery.
    
-4. ### Male-to-Female Ratio:                             1.5   
+4. ### Male-to-Female Ratio:                    1.5   
     This implies that for every 1 female registrant, there are 1.5 male registrants. The gender imbalance suggests a need to develop targeted strategies to increase female 
     participation, ensuring inclusiveness and equity in program access.
    
